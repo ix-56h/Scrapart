@@ -1,0 +1,3 @@
+requests
+email
+beautifulsoup4
