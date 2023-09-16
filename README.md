@@ -1,4 +1,4 @@
-# Scrappart - Scraper Automatique pour la Recherche d'Appartement
+# Scrapart - Scraper Automatique pour la Recherche d'Appartement
 
 Scrappart est un scraper conçu pour automatiser la recherche d'appartements sur différents sites web d'annonces immobilières tels que LeBonCoin, SeLoger et PAP. Ce README vous guidera à travers la configuration et l'utilisation de ce bot.
 
